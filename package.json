@@ -14,6 +14,7 @@
     "chalks": "^0.1.5",
     "color": "^4.2.3",
     "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
     "simple-node-logger": "^21.8.12"
   }
 }
